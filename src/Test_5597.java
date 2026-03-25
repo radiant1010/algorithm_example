@@ -1,3 +1,4 @@
+package src;
 import java.util.Scanner;
 
 /*  https://www.acmicpc.net/problem/5597 */

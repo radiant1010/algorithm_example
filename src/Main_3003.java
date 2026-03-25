@@ -1,3 +1,4 @@
+package src;
 /*  
  * https://www.acmicpc.net/problem/3003
  */
